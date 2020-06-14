@@ -3,7 +3,6 @@ require 'formula'
 class Fakechroot < Formula
   homepage 'https://github.com/fakechroot/fakechroot/wiki'
   url 'https://github.com/downloads/fakechroot/fakechroot/fakechroot-2.16.tar.gz'
-  md5 '3ea5efb76664e787450e0cfcefc1b807'
 
 
   def install
